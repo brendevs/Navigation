@@ -1,0 +1,6 @@
+[submodule "brendevs/1st assignment"]
+	path = brendevs/1st assignment
+	url = https://github.com/brendevs/1st-assignment.git
+[submodule "1st-assignment"]
+	path = 1st-assignment
+	url = https://github.com/brendevs/1st-assignment.git
